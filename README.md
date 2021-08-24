@@ -1,8 +1,8 @@
+### Hi there 👋, I'm Aaron
 
 <img src= 'https://user-images.githubusercontent.com/39439441/130697372-edc63aed-5a1b-402c-9426-900f6b0634a9.png' alt='banner' width='100%'>
 
-### Hi there 👋, I'm Aaron
-I am a frontend developer who loves creating clean, functional web applications that anyone can use.
+I am a frontend developer who is passionate about creating technology to make the web more accessible and present information in unique and interesting ways. Some technologies I enjoy working with include ReactJS, Firebase, and TypeScript.  
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Buachie)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/Buachie)](https://badges.pufler.dev)
 
@@ -19,6 +19,7 @@ I am a frontend developer who loves creating clean, functional web applications 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ## Connect With Me 🤝
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Buachie)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://abuachie.com/)  
+- [My Portfolio](https://abuachie.com/)
+- [LinkedIn](https://www.linkedin.com/in/aaronbuachie/)
 
 
