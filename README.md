@@ -6,7 +6,7 @@ I am a frontend developer who is passionate about creating technology to make th
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Buachie)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/Buachie)](https://badges.pufler.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buachie&layout=compact&hide=php&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) ![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buachie&show_icons=true&theme=tokyonight&count_private=true&hide=stars,prs,issues,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buachie&layout=compact&hide=php&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 ## Languages 🖥
